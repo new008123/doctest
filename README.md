@@ -9,3 +9,5 @@ coverY: 0
 Welcome to the company wiki! Here you'll find everything you need to know about the company.
 
 {% embed url="https://www.jumpproxy.com/video/teach.mp4" %}
+
+{% embed url="https://www.jumpproxy.com/video/teach.mp4" %}
